@@ -71,3 +71,20 @@ Available datasets:
 ## Data Source
 
 [NASA Prognostics Center of Excellence Data Repository](https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository)
+
+## Dashboard(Apologies in video as during making the video we had some design erros for the graph)
+![1](https://github.com/user-attachments/assets/d6047a46-dbda-4030-9932-33abe9434dc9)
+
+![2](https://github.com/user-attachments/assets/1179df88-5906-4e10-b9be-95bc861d2319)
+
+
+![3](https://github.com/user-attachments/assets/330609a6-a9f3-4939-8db7-01308fb378e9)
+
+![4](https://github.com/user-attachments/assets/043b0769-8f83-4fd9-8151-06b22ca427c0)
+
+![5](https://github.com/user-attachments/assets/ef27f28d-ea3a-450f-99c6-35af550153c5)
+![6](https://github.com/user-attachments/assets/1ee20598-9922-4b7d-9e47-adde7d96d272)
+![7](https://github.com/user-attachments/assets/3d97d54e-e817-47ce-9a8d-354dc8f55f60)
+![8](https://github.com/user-attachments/assets/f3ae2fe0-5d43-4dfa-8f81-fb60856f1b01)
+![9](https://github.com/user-attachments/assets/57ddca18-55c8-4263-8fd5-9bb3f7d92556)
+
