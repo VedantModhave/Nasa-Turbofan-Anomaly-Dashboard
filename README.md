@@ -16,8 +16,8 @@ An interactive dashboard for analyzing the NASA Turbofan Engine dataset to detec
 ### Prerequisites
 
 - Python 3.8+
-- Node.js 14+
-- npm or yarn
+- Streamlit
+- Node.js
 
 ### Installation
 
